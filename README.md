@@ -26,3 +26,6 @@ Analysis of 23 major cryptocurrencies using historical price data from 2013 to 2
 - Most cryptocurrencies are highly correlated with Bitcoin
 - Tether behaves differently as a stablecoin
 - Trading volume spikes during bull runs and crashesss
+
+## Dashboard Preview
+![Crypto Dashboard](dashboard.png)
